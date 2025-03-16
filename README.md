@@ -17,7 +17,3 @@ Program nie jest dostępny jako samodzielny plik wykonywalny (*.exe*), ponieważ
 
 ## Licencja
 Projekt jest udostępniany na zasadach **Open Source**.
-
-## Autor
-Twórca: [Twoje Imię lub Nick]
-
